@@ -7,7 +7,7 @@ I know you're probably here to stalk me so here's a curated list of some hobbies
 - I am a badminton player (obviously the best and most difficult sport).
 - Video games (I like to have a little fun) ヽ༼ຈل͜ຈ༽ﾉ
 
-Here's my favorite living organism in the entire:
+Here's my favorite living organism in the entire world (my dog Biscuit):
 ![Me](./IMG_2466.jpg)
 
 
