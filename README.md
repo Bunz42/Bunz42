@@ -59,3 +59,6 @@ I am a passionate Full-Stack developer who loves building web applications and e
   
   <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Bunz42&layout=compact&theme=tokyonight" height="180" alt="languages graph" />
 </div>
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Bunz42&theme=tokyonight" alt="Bunz42's Streak" />
+</div>
