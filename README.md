@@ -55,6 +55,7 @@ I am a passionate Full-Stack developer who loves building web applications and e
 ### GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Bunz42&show_icons=true&theme=tokyonight" height="180" alt="stats graph" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bunz42&layout=compact&theme=tokyonight" height="180" alt="languages graph" />
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=Bunz42&show_icons=true&theme=tokyonight" height="180" alt="stats graph" />
+  
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Bunz42&layout=compact&theme=tokyonight" height="180" alt="languages graph" />
 </div>
