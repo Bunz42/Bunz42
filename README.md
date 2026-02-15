@@ -1,11 +1,11 @@
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=Raymond.Hao&fontSize=90" width="100%"/>
   
-  <h1>I'm Raymond (AKA Bunz) 👋</h1>
-  <h3>Full-Stack Developer 👨‍💻</h3>
+  <h1>I'm Raymond (AKA Bunz)</h1>
+  <h3>Full-Stack Developer</h3>
   
   <p>
-    <b>🎹 Piano Enthusiast</b> &nbsp;|&nbsp; <b>🏸 Badminton Player</b> &nbsp;|&nbsp; <b>💻 Programming</b>
+    <b>Piano Enthusiast</b> &nbsp;|&nbsp; <b>Badminton Player</b> &nbsp;|&nbsp; <b>Programming</b>
   </p>
   
   <br/>
