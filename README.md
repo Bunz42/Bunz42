@@ -41,7 +41,8 @@ I am a passionate Full-Stack developer who loves building web applications and e
   <img src="https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi" alt="FastAPI"/>
   <img src="https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white" alt="SQL"/>
   <img src="https://img.shields.io/badge/Resend-black?style=for-the-badge&logo=resend&logoColor=white" alt="Resend"/>
-  <img src="https://img.shields.io/badge/Nodemailer-46c119?style=for-the-badge&logo=nodemailer&logoColor=white" alt="Nodemailer"/>
+  <img src="https://img.shields.io/badge/Nodemailer-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Nodemailer"/>
+  
 
   <br/>
 
