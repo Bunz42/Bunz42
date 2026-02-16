@@ -5,7 +5,7 @@
   <h3>Full-Stack Developer</h3>
   
   <p>
-    <b>Piano Enthusiast</b> &nbsp;|&nbsp; <b>Badminton Player</b> &nbsp;|&nbsp; <b>Programming</b>
+    <b>Piano</b> &nbsp;|&nbsp; <b>Badminton</b> &nbsp;|&nbsp; <b>Programming</b>
   </p>
   
   <br/>
