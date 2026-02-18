@@ -8,7 +8,11 @@
     <b>Piano</b> &nbsp;|&nbsp; <b>Badminton</b> &nbsp;|&nbsp; <b>Programming</b>
   </p>
   
-  <p><b>My website: </b> https://bunz-42-portfolio.vercel.app/</p>
+  <img src="https://komarev.com/ghpvc/?username=Bunz42&label=Profile%20Views&color=000000&style=for-the-badge" alt="Profile Views" />
+
+  <a href="https://bunz-42-portfolio.vercel.app/" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-Visit_My_Website-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Visit Portfolio" />
+  </a>
 </div>
 
 
