@@ -2,7 +2,7 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=Raymond.Hao&fontSize=90" width="100%"/>
   
   <h1>I'm Raymond (AKA Bunz)</h1>
-  <h3>Full-Stack Developer</h3>
+  <h3>Software Developer</h3>
   
   <p>
     <b>Piano</b> &nbsp;|&nbsp; <b>Badminton</b> &nbsp;|&nbsp; <b>Programming</b>
@@ -17,7 +17,7 @@
 
 
 ### About Me
-I am a passionate Full-Stack developer who loves building web applications and exploring new technologies. When I'm not coding, you can find me playing the piano or on the badminton court.
+I am a passionate Software developer who currently loves building web applications and exploring new technologies. When I'm not coding, you can find me playing the piano or on the badminton court.
 
 ---
 
