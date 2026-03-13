@@ -13,12 +13,6 @@
   <a href="https://bunz-42-portfolio.vercel.app/" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-Visit_My_Website-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Visit Portfolio" />
   </a>
-
-### Currently Working On:
-
-![InsightForge](https://img.shields.io/badge/InsightForge-0078D4?style=for-the-badge)
-![VibeRoute](https://img.shields.io/badge/VibeRoute-8A2BE2?style=for-the-badge)
-  
 </div>
 
 
